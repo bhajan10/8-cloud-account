@@ -1,15 +1,14 @@
 Cloud Computing & Free Tier Research
 
-What is Cloud Computing?
-Cloud computing is the delivery of computing services such as servers, storage, databases, networking, and software over the internet instead of using local machines. It allows users to access resources on-demand, pay only for what they use, and scale services easily. Cloud platforms reduce hardware costs and increase flexibility. Users can deploy applications globally without managing physical infrastructure.
+Cloud computing is the delivery of computing services such as servers, storage, databases, networking, and software over the internet instead of using local machines. It allows users to access resources on demand, pay only for what they use, and scale services easily. Cloud platforms reduce hardware costs and increase flexibility. Users can deploy applications globally without managing physical infrastructure.
 
 Cloud Provider Free Tier Comparison
 
 1. Microsoft Azure
 Free Tier Includes:
-- ₹16,500 (~$200) free credit
+- $200 (₹16,500) free credit
 - Access to popular services like Virtual Machines, Storage, and Databases
-- Always-free services with limited usage
+- Always free services with limited usage
 
 Duration:
 - 30 days for free credits
